@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-- [Your Name](https://github.com/your-username)
+- [Shivakoti Shambhavi]
