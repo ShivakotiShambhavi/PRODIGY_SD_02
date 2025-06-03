@@ -38,7 +38,10 @@ A simple and interactive number guessing game built with Python and Tkinter. The
 ---
 
 ## 📸 Screenshot
-![image alt](https://github.com/RAVULAAJAY/Hand-Gesture-Recognition/blob/6345855aafe966f48cb6e9d45f405fc3554cd79d/images/IMG-20250529-WA0007.jpg)
+![image alt](https://github.com/ShivakotiShambhavi/PRODIGY_SD_02/blob/c39470c48efb4c77bc1b4c4605c28622d51dea72/Screenshot%202025-06-03%20132159.png)
+![image alt]()
+![image alt]()
+![image alt]()
 
 ## 🧠 How It Works
 
