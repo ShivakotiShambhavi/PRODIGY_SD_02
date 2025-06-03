@@ -39,9 +39,9 @@ A simple and interactive number guessing game built with Python and Tkinter. The
 
 ## 📸 Screenshot
 ![image alt](https://github.com/ShivakotiShambhavi/PRODIGY_SD_02/blob/c39470c48efb4c77bc1b4c4605c28622d51dea72/Screenshot%202025-06-03%20132159.png)
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/ShivakotiShambhavi/PRODIGY_SD_02/blob/5f9ffce75173fb9e395c387d0d9422c59842534f/Screenshot%202025-06-02%20202235.png)
+![image alt](https://github.com/ShivakotiShambhavi/PRODIGY_SD_02/blob/5f9ffce75173fb9e395c387d0d9422c59842534f/Screenshot%202025-06-02%20202243.png)
+![image alt](https://github.com/ShivakotiShambhavi/PRODIGY_SD_02/blob/5f9ffce75173fb9e395c387d0d9422c59842534f/Screenshot%202025-06-02%20202303.png)
 
 ## 🧠 How It Works
 
